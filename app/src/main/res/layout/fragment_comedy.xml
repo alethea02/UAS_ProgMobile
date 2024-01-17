@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragment1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="25dp">
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/trailer"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="190dp"
+                android:text="Trailer"
+                android:onClick="pop" />
+
+            <ImageView
+                android:id="@+id/cts"
+                android:src="@drawable/cts"
+                android:layout_width="150dp"
+                android:layout_height="175dp" />
+
+            <TextView
+                android:id="@+id/judul"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/cts"
+                android:layout_marginStart="16dp"
+                android:text="@string/cts"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="150dp"
+                android:layout_toRightOf="@id/cts"
+                android:layout_below="@id/judul">
+
+                <TextView
+                    android:id="@+id/sino_cts"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:text="@string/sinopsis_cts"
+                    android:textColor="@color/black"
+                    android:textSize="15dp"/>
+            </ScrollView>
+
+
+        </RelativeLayout>
+        <!--        MOVIE-2-->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="25dp"
+            android:layout_marginTop="250dp">
+
+            <ImageView
+                android:id="@+id/gambar1"
+                android:layout_width="150dp"
+                android:layout_height="175dp"
+                android:src="@drawable/msb"/>
+
+            <TextView
+                android:id="@+id/judul1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/gambar1"
+                android:layout_marginStart="16dp"
+                android:text="@string/msb"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="150dp"
+                android:layout_toRightOf="@id/gambar1"
+                android:layout_below="@id/judul1">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:text="@string/sinopsis_msb"
+                    android:textColor="@color/black"
+                    android:textSize="15dp"/>
+            </ScrollView>
+
+        </RelativeLayout>
+        <!--MOVIE 3-->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="25dp"
+            android:layout_marginTop="470dp">
+
+            <ImageView
+                android:id="@+id/gambar3"
+                android:layout_width="150dp"
+                android:layout_height="175dp"
+                android:src="@drawable/comic8"/>
+
+            <TextView
+                android:id="@+id/judul3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/gambar3"
+                android:layout_marginStart="16dp"
+                android:text="@string/comic"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="150dp"
+                android:layout_toRightOf="@id/gambar3"
+                android:layout_below="@id/judul3">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:text="@string/sinopsis_comic"
+                    android:textColor="@color/black"
+                    android:textSize="15dp"/>
+            </ScrollView>
+
+        </RelativeLayout>
+
+
+    </FrameLayout>
+
+</LinearLayout>

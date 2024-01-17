@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:oop="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".MovieActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue"
+        android:text="@string/nav"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:paddingStart="10dp"/>
+
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue"
+        oop:tabTextColor="@color/white">
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/comedy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/comedy"/>
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/horor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/romance"/>
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/action"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/action"/>
+
+    </com.google.android.material.tabs.TabLayout>
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+        </RelativeLayout>
+
+    </FrameLayout>
+
+
+
+</LinearLayout>

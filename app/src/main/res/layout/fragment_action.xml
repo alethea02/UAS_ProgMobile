@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragment3">
+
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="25dp">
+
+            <ImageView
+                android:id="@+id/gambar"
+                android:layout_width="150dp"
+                android:layout_height="175dp"
+                android:src="@drawable/avenger"/>
+
+            <TextView
+                android:id="@+id/judul"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/gambar"
+                android:layout_marginStart="16dp"
+                android:text="@string/avengers"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="150dp"
+                android:layout_toRightOf="@id/gambar"
+                android:layout_below="@id/judul">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:text="@string/sinopsis_avenger"
+                    android:textColor="@color/black"
+                    android:textSize="15dp"/>
+            </ScrollView>
+
+        </RelativeLayout>
+        <!--        MOVIE-2-->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="25dp"
+            android:layout_marginTop="200dp">
+
+            <ImageView
+                android:id="@+id/gambar1"
+                android:layout_width="150dp"
+                android:layout_height="175dp"
+                android:src="@drawable/iron"/>
+
+            <TextView
+                android:id="@+id/judul1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/gambar1"
+                android:layout_marginStart="16dp"
+                android:text="@string/iron"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="150dp"
+                android:layout_toRightOf="@id/gambar1"
+                android:layout_below="@id/judul1">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:text="@string/sinopsis_iron"
+                    android:textColor="@color/black"
+                    android:textSize="15dp"/>
+            </ScrollView>
+        </RelativeLayout>
+        <!--MOVIE 3-->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="25dp"
+            android:layout_marginTop="400dp">
+
+            <ImageView
+                android:id="@+id/gambar3"
+                android:layout_width="150dp"
+                android:layout_height="175dp"
+                android:src="@drawable/fast10"/>
+
+            <TextView
+                android:id="@+id/judul3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/gambar3"
+                android:layout_marginStart="16dp"
+                android:text="@string/fast"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="150dp"
+                android:layout_toRightOf="@id/gambar3"
+                android:layout_below="@id/judul3">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:text="@string/sinopsis_fast"
+                    android:textColor="@color/black"
+                    android:textSize="15dp"/>
+            </ScrollView>
+        </RelativeLayout>
+
+    </FrameLayout>
+</LinearLayout>

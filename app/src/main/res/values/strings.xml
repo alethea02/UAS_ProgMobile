@@ -1,0 +1,143 @@
+<resources>
+    <!--    STRING FIBONACI-->
+    <string name="app_name">Latihan App3</string>
+    <string name="btn_labek_toast">TOAST</string>
+    <string name="count_initial_value">0</string>
+    <string name="btn_label_count">Count</string>
+    <string name="toast_messge">"Hello Toast!"</string>
+    <string name="Fibonacci">Fibonacci</string>
+    <!--    REPLY MASSAGE-->
+    <string name="button_main">Send</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Message Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+    <!--    SIANIDA-->
+    <string name="hallo">Halo apa kabarnya?</string>
+    <string name="jawaban">Bagaimana Kabarnya!</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="hitung_initial_value">0</string>
+    <string name="toast_pesan">Bro!</string>
+
+    <string name="article_text">kasus Sianida</string>
+    <string name="article_subtitle">ice cold</string>
+
+    <string name="art_isi">
+        In sa vault deep inside Abbey Road Studios in London — protected by an unmarked,
+        triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles
+        recordings, starting from June 2, 1962 and ending with the very last tracks recorded for
+        the Let It Be album. The best of the best were released by Apple Records in the form of
+        the 3-volume Anthology series. For more information, see the Beatles Time Capsule at
+        www.rockument.com. \n\n This volume starts with the first new Beatle song,
+        “Free as a Bird” (based on a John Lennon demo, found only on The Lost Lennon Tapes Vol. 28,
+        and covers the very earliest historical recordings, outtakes from the first albums, and
+        live recordings from early concerts and BBC Radio sessions. \n\n
+        Highlights include: \n\n
+
+        Cry for a Shadow – Many a Beatle fanatic started down the outtake road, like I did,
+        with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single
+        session that yielded four songs (the other three featured Tony Sheridan with the Beatles as
+        a backing band), “Cry for a Shadow” is an instrumental written by Lennon and Harrison,
+        which makes it unique to this day. John Lennon plays rhythm guitar, George Harrison plays
+        lead guitar, Paul McCartney plays bass, and Pete Best plays drums. The sessions were
+        produced by Bert Kaempfert in Hamburg, Germany, during the Beatles’ second visit
+        from April through July of 1961 to play in the Reeperbahn-section clubs. \n\n
+
+        My Bonnie and Ain’t She Sweet — At the same session, the Beatles played on
+        “My Bonnie” (the first-ever single with Beatles playing), as the backing band for
+        English singer Tony Sheridan, originally a member of the Jets. The popularity of this
+        single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in
+        the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine
+        “Ain’t She Sweet” (his first-ever released vocal). \n\n
+
+        Searchin — A Jerry Leiber – Mike Stoller comedy song that was a hit for the Coasters in 1957,
+        and a popular live favorite of the Beatles. The Coasters also had a hit with “Besame Mucho”
+        and the Beatles covered that song as well. Ringo Starr had by now replaced Pete Best
+        on drums. The high falsetto is George, who also plays a hesitant lead guitar.
+        This is from their first audition for Decca Records in London on Jan 1., 1962,
+        live in the studio. The Grateful Dead would later cover “Searchin” with a similar
+        arrangement, Pigpen doing the Paul vocals. A live version is available on outtake records
+        featuring the Dead joined by the Beach Boys! \n\n
+
+        Love Me Do — An early version of the song, played a bit slower and with more of a blues
+        feeling, and a cool bossa-nova beat in middle. Paul had to sing while John played harmonica
+        — a first for the group. Pete Best played drums on this version. \n\n
+
+        She Loves You – Till There Was You – Twist and Shout — Live at the Princess Wales Theatre by
+        Leicester Square in London, attended by the Queen. “Till There Was You” (by Meredith Wilson)
+        is from the musical The Music Man and a hit for Peggy Lee in 1961. Before playing it, Paul
+        said it was recorded by his favorite American group, “Sophie Tucker” (which got some laughs).
+        At the end, John tells the people in the cheaper seats to clap their hands, and the rest to
+        “rattle your jewelry” and then announces “Twist and Shout” (a song by Bert Russell and Phil
+        Medley that was first recorded in 1962 by the Isley Brothers). A film of the performance
+        shows the Queen smiling at John’s remark. \n\n
+
+        Leave My Kitten Alone — One of the lost Beatle songs recorded during the “Beatles For Sale”
+        sessions but never released. This song, written by Little Willie John, Titus Turner, and
+        James McDougal, was a 1959 hit for Little Willie John and covered by Johnny Preston before
+        the Beatles tried it and shelved it. A reference to a “big fat bulldog” may have influenced
+        John’s “Hey Bulldog” (Yellow Submarine album), which is a similar rocker. \n\n
+
+        One After 909 — A song recorded for the ¨C11C album was actually worked on way back in the
+        beginning, six years earlier. This take shows how they did it much more slowly, with an
+        feel to it.
+
+        Posted onOctober 7, 2023
+        Leave a commenton PROJECT SCROLLING TEXT
+        Analisis Data dengan Bahasa pytho
+    </string>
+<!--    FRAGMENT -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav">Daftar Film</string>
+    <string name="comedy">Comedy</string>
+    <string name="romance">Romance</string>
+    <string name="action">Action</string>
+    <string name="isi_fragment1">Ini fragment 1</string>
+    <string name="isi_fragment2">Ini fragment 2</string>
+    <string name="isi_fragment3">Ini fragment 3</string>
+    <string name="cts">Cek Toko Sebelah</string>
+    <string name="msb">My Stupid Boss</string>
+    <string name="comic">Comic-8</string>
+    <string name="dilan">Dilan 1990</string>
+    <string name="milea">Milea  Suara dari Dilan</string>
+    <string name="titanic">Titanic</string>
+    <string name="fast">Fast and Furious 10</string>
+    <string name="iron">Iron Man 3</string>
+    <string name="avengers">Avanger End Game</string>
+    <string name="sinopsis_cts">
+        Erwin (Ernest Prakasa) menikmati hidupnya dengan karir gemilang di usia muda, dan kekasih cantik yang tak kalah sukses, Natalie (Gisella Anastasia). Tapi semua jadi pelik saat Koh Afuk (Chew Kin Wah) yang kesehatannya makin memburuk, ingin mewariskan toko sembakonya kepada Erwin, anak kesayangannya.
+        Sementara itu, Yohan (Dion Wiyoko) kakak Erwin, naik pitam karena dilangkahi. Sebagai anak sulung yang merasa lebih perhatian pada kedua orang tuanya, Yohan yakin ia dan istrinya, Ayu (Adinia Wirasti), adalah yang paling berhak meneruskan toko tersebut. Sayangnya, Koh Afuk sulit mempercayai Yohan yang selalu memberontak.
+        Apakah Erwin akan terpaksa mengorbankan karirnya untuk mengurusi toko Koh Afuk meski ditentang keras oleh Natalie? Ataukah Yohan akan berhasil meyakinkan ayahnya bahwa ia sesungguhnya lebih layak dipercaya? Nantikan CEK TOKO SEBELAH, sebuah drama komedi keluarga dari penulis, sutradara, produser, dan segenap tim kerja dibalik film NGENEST.
+    </string>
+    <string name="sinopsis_msb">
+        Film ini mengisahkan tentang hubungan antara seorang karyawan dan bossnya yang berkelakuan super ajaib! Diana tinggal di Kuala Lumpur mengikuti Dika, suaminya yang bekerja di sana. Diana lalu melamar bekerja di satu perusahaan. Bossnya kebetulan adalah teman kuliah Dika sewaktu di Amerika.
+    </string>
+    <string name="sinopsis_comic">
+        Comic 8: Kasino Kings‘ akan menceritakan misi lanjutan 8 agen rahasia yang berada di bawah pimpinan Indro Warkop untuk menjalankan misi undercover menjadi comic atau stand up comedian, demi mencari seorang comic yang menjadi penghubung ke seorang master kriminal uang bernama The King.
+        Kedelapan comic tersebut harus melewati banyak proses dan hambatan, dari harus menghindari kejaran penyelidikan interpol dan kepolisian dari peristiwa perampokan sebelumnya, sampai menghadapi kelompok preman dan penjahat cap kampak. Mereka akhirnya berhasil tiba di pulau rahasia milik The King yang menjadi salah satu kasino terbesar di Asia, di mana para penjudinya berasal dari seluruh dunia.
+        Comic 8 harus memutar otak dan melakukan segala cara untuk bisa membebaskan diri dari perangkap yang menunggu mereka, di mana tugas dari misi ini adalah menangkap The King dan menghancurkan kasino tersebut.
+    </string>
+    <string name="sinopsis_dilan">
+        Milea (Vanesha Prescilla) bertemu dengan Dilan (Iqbaal Ramadhan) di sebuah SMA di Bandung. Itu adalah tahun 1990, saat Milea pindah dari Jakarta ke Bandung. Perkenalan yang tidak biasa kemudian membawa Milea mulai mengenal keunikan Dilan lebih jauh. Dilan yang pintar, baik hati dan romantis... semua dengan caranya sendiri. Cara Dilan mendekati Milea tidak sama dengan teman-teman lelakinya yang lain, bahkan Beni, pacar Milea di Jakarta.
+        Bahkan cara berbicara Dilan yang terdengar kaku, lambat laun justru membuat Milea kerap merindukannya jika sehari saja ia tak mendengar suara itu. Perjalanan hubungan mereka tak selalu mulus. Beni, gank motor, tawuran, Anhar, Kang Adi, semua mewarnai perjalanan itu. Dan Dilan... dengan caranya sendiri...selalu bisa membuat Milea percaya ia bisa tiba di tujuan dengan selamat. Tujuan dari perjalanan ini. Perjalanan mereka berdua. Katanya, dunia SMA adalah dunia paling indah.
+        Dunia Milea dan Dilan satu tingkat lebih indah daripada itu.
+    </string>
+    <string name="sinopsis_milea">
+        Dilan, panglima tempur sebuah geng motor di Bandung awal 90-an, menjalin hubungan dengan seorang siswi baru dari Jakarta bernama Milea. Dilan selalu bahagia saat bersama Milea, namun teman-teman geng motor merasa Dilan makin menjauh dari kelompoknya karena Milea. Terjadi peristiwa yang mengerikan, salah satu anggota mereka, Akew (Gusti Rayhan), meninggal akibat dikeroyok oleh sekelompok orang. Peristiwa itu membuat Milea khawatir akan keselamatan Dilan. Milea membuat keputusan untuk berpisah dengan Dilan sebagai peringatan agar Dilan menjauh dari geng motor. Peristiwa Akew menyeret Dilan ke pihak berwajib bersama teman-temannya. Perpisahan yang tadinya hanya gertakan Milea menjadi perpisahan yang berlangsung lama sampai mereka lulus kuliah dan dewasa. Mereka berdua masih membawa perasaan yang sama saat mereka kembali bertemu di reuni, namun masing-masing saat itu sudah memiliki pasangan.
+    </string>
+    <string name="sinopsis_titanic">
+        Film drama romantis ini mengisahkan kisah cinta yang tragis Rose DeWitt Bukater dengan Jack Dawson di tentang tragedi tenggelamnya kapal Titanic pada 1912. Pada 1996, pemburu harta karun Brock Lovett dan timnya mencari kalung Heart of the Ocean di puing-puing kapal Titanic. Mereka tidak menemukan Heart of the Ocean, tetapi mendapati sebuah peti berisi lukisan seorang perempuan yang mengenakan kalung itu. Perempuan dalam lukisan itu bernama Rose Dawson Calvert pun menceritakan pengalamannya menjadi penumpang Titanic. Rose naik kapal itu ketika berusia 17 tahun. Dia bersama ibunya, Ruth DeWitt Bukater dan tunangannya Caledon Nathan Hockley. Di kapal itu, Rose yang tidak mencintai tunangannya bertemu Jack Dawson, seorang seniman miskin. Kedekatan dua insan yang berbeda status sosial itu diawali Jack menyelamatkan Rose yang hendak mengakhiri hidupnya.
+    </string>
+    <string name="sinopsis_fast">
+        Selama banyak misi dan melawan rintangan yang mustahil, Dom Toretto dan keluarganya telah mengakali dan mengalahkan setiap musuh di jalan mereka. Sekarang, mereka menghadapi lawan paling mematikan yang pernah mereka hadapi: Ancaman mengerikan yang muncul dari bayang-bayang masa lalu yang dipicu oleh dendam berdarah, dan yang bertekad untuk menghancurkan keluarga ini dan menghancurkan segalanyadan semua orangyang dicintai Dom, selamanya. Dalam Fast Five 2011, Dom dan krunya mengalahkan gembong narkoba Brasil Hernan Reyes yang jahat dan memenggal kerajaannya di sebuah jembatan di Rio De Janeiro.
+        Apa yang tidak mereka ketahui adalah bahwa putra Reyes, Dante, menyaksikan semuanya dan telah menghabiskan 12 tahun terakhir mendalangi rencana untuk membuat Dom membayar harga tertinggi. Plot Dante akan menyebarkan keluarga Dom dari Los Angeles ke katakombe Roma, dari Brasil ke London dan dari Portugal ke Antartika. Sekutu baru akan ditempa dan musuh lama akan muncul kembali. Tapi semuanya berubah ketika Dom menemukan bahwa putranya sendiri yang berusia 8 tahun adalah target utama balas dendam Dante.
+    </string>
+    <string name="sinopsis_iron">
+        Industrialis brilian Tony Stark / Iron Man menghadapi musuh yang tak kenal batas. Dunia Tony dihancurkan dan ia menyelidiki siapa yang bertanggung jawab untuk kerusakan tersebut. Berbekal peralatan dan instingnya, Tony berusaha menyelamatkan orang-orang yang dikasihinya. Pertanyaan lama kembali menghantuinya; apakah manusia yang membuat baju Iron Man atau baju tersebut yang menentukan identitasnya sebagai manusia?
+    </string>
+    <string name="sinopsis_avenger">
+        Melanjutkan Avengers Infinity War, dimana kejadian setelah Thanos berhasil mendapatkan semua infinity stones dan memusnahkan 50% semua mahluk hidup di alam semesta. Akankah para Avengers berhasil mengalahkan Thanos?
+    </string>
+</resources>
